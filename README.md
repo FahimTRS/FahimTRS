@@ -1,4 +1,4 @@
-(https://images6.alphacoders.com/135/thumb-1920-1350469.png)
+[![MasterHead](https://images6.alphacoders.com/135/thumb-1920-1350469.png)
 <h1 align="center">Hi 👋, I'm FAHIM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
